@@ -9,23 +9,25 @@
 
 #importar datos de semillas
 
-semilla <- read.csv("Clases Apuntes/Semilla.csv", header = T)
-graf.sem <- boxplot(Semilla$Peso_gr)
+semillas <- read.csv("Clases Apuntes/Semillas.csv", header = T)
+graft.sem <- boxplot(semillas$Peso_gr)
 
 #Identificar
-wich(semilla$Peso_gr >40)
-semilla¨[524, ]
+wich(semillas$Peso_gr >40)
+semillas[524, ]
 #Identificar semillas con valores menores al rango
 
 graf.sem$out
-wich(semilla$Peso_gr <=2.671)
+wich(semillas$Peso_gr <=2.671)
 #Identificar los cuantiles
-quantile(semilla$Peso_gr, 0.25)
-quantile(semilla$Peso_gr, 0.5)
-quantile(semilla$Peso_gr, 0.75)
-quantile(semilla$Peso_gr, 1)
+quantile(semillas$Peso_gr, 0.25)
+quantile(semillas$Peso_gr, 0.5)
+quantile(semillas$Peso_gr, 0.75)
+quantile(semillas$Peso_gr, 1)
 
-
+#tabla de frecuencia para semillas
+numero <- table(semillas$cond)
+numero 6
 
 
 
