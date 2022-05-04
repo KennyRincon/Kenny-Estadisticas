@@ -28,6 +28,7 @@ abline(sem.lm)
 
 text(19, 2, "Y=-4.93+0.53*X")
 text(19,1.5, "Regresión lineal")
+text(19, 1.3, "r^2=0.69* ")
 
 semillas$Ajustados <- round(sem.lm$fitted.values,2)
 
