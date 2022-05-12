@@ -1,4 +1,5 @@
 #TEMA NUEVO
+
 Semilla <- read.csv("Clases Apuntes/BaseDeDatos_estadistica.csv", header = T)
 Semilla
 #Plot de Diametro Vs Peso en gramos
