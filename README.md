@@ -14,7 +14,7 @@ Semana 3:
 
 + :dart: 02/02/2022: sala de computo instalar credenciales y proyecto.
 
-[Laboratorio](Laboratorio/Lab 1.R)
+[Laboratorio](Laboratorio/Lab1.R)
 
 [Tarea](Tarea/HW_01.R)
 
@@ -64,6 +64,7 @@ Semana 10:
 + :dart: 24/03/2022: Examen
 
 [Clases](Clases/ExamenSemana13.R)
+
 [Laboratorio](Clases/Laboratorio.R)
 
 
@@ -84,6 +85,7 @@ Semana 13:
 + :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
 [Clases](Clases/ExamenSemana13.R)
+
 [Clases](Clases/Clase13.R)
 
 Semana 14:
@@ -97,7 +99,8 @@ Semana 15:
 + :dart: 12/05/2022: Actualizacion de README, solucion de dudas
 
 [Clases](Clases/Examen2.R)
-[Laboratorio](Laboratorio/Lab 3.R)
+
+[Laboratorio](Laboratorio/Lab3.R)
 
 Semana 16:
 + :dart: Preparacion del PIA
