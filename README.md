@@ -18,24 +18,30 @@ Semana 3:
 
 ¡[Tarea](Tarea/HW_01.R)
 
-¡[Clases Apuntes](Clases Apuntes/Clase semana 3.R)
+¡[Clases](Clases Apuntes/Clase semana 3.R)
 
 Semana 4:sala de computo realiazacion de graficas 
 
 ¡[Laboratorio](Laboratorio/Lab2.R)
+
 ¡[Tarea](Tarea/HW_02.R) 
+
 ¡[Tarea](Tarea/HW_03.R)
-¡[Clases Apuntes](Clases Apuntes/Clase semana 4 dia 10 de febrero.R) 
-¡[Clases Apunte](Clases Apuntes/Clase semana 4.R)
+
+¡[Clases](Clases Apuntes/Clase semana 4 dia 10 de febrero.R) 
+
+¡[Clases](Clases Apuntes/Clase semana 4.R)
 
 Semana 5:
 + :dart: 16/02/2022: sala de computo trabajo con datos de inventario
 + :dart: 17/02/2022: sala de computo estadistica diferencial
+
 ¡[Clases Apuntes](Clases Apuntes/Clase semana 5.R)()
 
 Semana 6: 
 + :dart: 23/02/2022: recoleccion de datos Semillas de encino rojo
 + :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
+
 ¡[Clases Apuntes](DIA LIBRE)
 
 Semana 7: 
