@@ -14,11 +14,11 @@ Semana 3:
 
 + :dart: 02/02/2022: sala de computo instalar credenciales y proyecto.
 
-[Laboratorio](Laboratorio/Lab 3.R)
+[Laboratorio](Laboratorio/Lab 1.R)
 
 [Tarea](Tarea/HW_01.R)
 
-[Clases Apuntes](Clases Apuntes/Clase semana 3.R)
+[Clases](Clases/Clase3.R)
 
 Semana 4:sala de computo realiazacion de graficas 
 
@@ -28,9 +28,9 @@ Semana 4:sala de computo realiazacion de graficas
 
 [Tarea](Tarea/HW_03.R)
 
-[Clases Apuntes](Clases Apuntes/Clase semana 4 dia 10 de febrero.R) 
+[Clases](Clases/Clase4.R) 
 
-[Clases](Clases Apuntes/Clase semana 4.R)
+[Clases](Clases/Clase4.1.R)
 
 Semana 5:
 + :dart: 16/02/2022: sala de computo trabajo con datos de inventario
@@ -96,7 +96,7 @@ Semana 15:
 + :dart: 11/05/2022:segundo examen: datos de regresion lineal
 + :dart: 12/05/2022: Actualizacion de README, solucion de dudas
 
-[Clases Apuntes](Clases Apuntes/Semana 15 Examen 2.R)
+[Clases](Clases/Semana 15 Examen 2.R)
 [Laboratorio](Laboratorio/Lab 3.R)
 
 Semana 16:
@@ -105,6 +105,6 @@ Semana 16:
 
 Prueba
 
-[Prueba](Clases/Examen2.R)
+[Prueba](Clases/Examen2.R) 
 
 
