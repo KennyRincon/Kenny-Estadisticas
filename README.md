@@ -18,7 +18,7 @@ Semana 3:
 
 [Tarea](Tarea/HW_01.R)
 
-[Clases](Clases Apuntes/Clase semana 3.R)
+[Clases Apuntes](Clases Apuntes/Clase semana 3.R)
 
 Semana 4:sala de computo realiazacion de graficas 
 
@@ -28,7 +28,7 @@ Semana 4:sala de computo realiazacion de graficas
 
 [Tarea](Tarea/HW_03.R)
 
-[Clases](Clases Apuntes/Clase semana 4 dia 10 de febrero.R) 
+[Clases Apuntes](Clases Apuntes/Clase semana 4 dia 10 de febrero.R) 
 
 [Clases](Clases Apuntes/Clase semana 4.R)
 
