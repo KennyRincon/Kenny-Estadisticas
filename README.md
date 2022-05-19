@@ -20,7 +20,6 @@ Semana 3:
 
 [Clases](Clases/Clase3.R)
 
-[Tarea](file:///D:/TAREAS%20HW/HW_01.pdf) 
 
 
 Semana 4:sala de computo realiazacion de graficas 
