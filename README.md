@@ -104,5 +104,7 @@ Semana 16:
 
 
 Prueba
-[Prueba No se](Clases/Examen 2.R)
+
+[Prueba](Clases/Examen 2.R)
+
 
