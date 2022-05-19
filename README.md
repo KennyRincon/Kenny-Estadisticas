@@ -36,75 +36,71 @@ Semana 5:
 + :dart: 16/02/2022: sala de computo trabajo con datos de inventario
 + :dart: 17/02/2022: sala de computo estadistica diferencial
 
-[Clases Apuntes](Clases Apuntes/Clase semana 5.R)
+[Clases](Clases/Clase5.R)
 
 Semana 6: 
 + :dart: 23/02/2022: recoleccion de datos Semillas de encino rojo
 + :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
 
-[Clases Apuntes](DIA LIBRE)
 
 Semana 7: 
 + :dart: 02/03/2022: sala de computo importar datos de semillas
 + :dart: 03/03/2022: preparacion de semillas para geerminacion de invernadero
-[Clases Apuntes](Clases Apuntes/Semana 7.R)
+
+[Clases](Clases/Clase7.R)
 
 Semana 8:
 + :dart: 16/03/2022 sala de computo importar base de datos de madera
 + :dart: 17/03/2022 --------------------------------------
-[Dia Libre](DiA LIBRE)
 
 Semana 9: 
 + :dart: 23/03/2022: sala de computo revisar datos de madera
 + :dart: 24/03/2022: ------------------------------------
 
-[Clases Apuntes](Clases Apuntes/Semana 9.1)
-[Clases Apuntes](Clases Apuntes/Semana 9.R)
+[Clases](Clases/Clase9.R)
 
 Semana 10: 
 + :dart: 23/03/2022: sala de computo pruebas de t en base de datos de madera
 + :dart: 24/03/2022: Examen
 
-[Clases Apuntes](Clases Apuntes/Semana 10.R)
-[Laboratorio](Laboratorio/Lab. Sem. 6)
+[Clases](Clases/ExamenSemana13.R)
+[Laboratorio](Clases/Laboratorio.R)
+
 
 Semana 11:
 + :dart: 30/03/2022: sala de computo pruebas de t dependientes
 + :dart: 31/03/2022: revision de examen
 
-[Clases Apuntes](Clases Apuntes/Clase-Semana 11.R)
+[Clases](Clases/Clase11.R)
 
 Semana 12:
 + :dart: 06/04/2022: revision de semillas de Encino rojo en el invernadero
 + :dart: 07/04/2022: exposicion de problema de variables dependientes
-[Clases Apuntes](Clases Apuntes/Clase semana 12.R)
+
+[Clases](Clases/Clase12.R)
 
 Semana 13:
 + :dart: 27/04/2022: sala de computo tema nuevo correlacion.
 + :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
-[Clases Apuntes](Clases Apuntes/Semana 13.R)
-[Clases Apuntes](Clases Apuntes/Examen Semana 13.R)
+[Clases](Clases/ExamenSemana13.R)
+[Clases](Clases/Clase13.R)
 
 Semana 14:
 + :dart: 04/05/2022: base de datos semilla: regresion
 + :dart: 05/05/2022: Dia libre
 
-[Clases Apuntes](Clases Apuntes/Apuntes semana no se.R)
+[Clases](Clases/Clase14.R)
 
 Semana 15:
 + :dart: 11/05/2022:segundo examen: datos de regresion lineal
 + :dart: 12/05/2022: Actualizacion de README, solucion de dudas
 
-[Clases](Clases/Semana 15 Examen 2.R)
+[Clases](Clases/Examen2.R)
 [Laboratorio](Laboratorio/Lab 3.R)
 
 Semana 16:
 + :dart: Preparacion del PIA
 
-
-Prueba
-
-[Prueba](Clases/Examen2.R) 
 
 
