@@ -6,24 +6,26 @@
 
 #6 semanas de monitoreo
 
+Semillas <-read.csv("Clases/BaseDeDatos_estadistica.csv", header = T) 
+graf.sem <- boxplot(semilla$Peso_gr)
 #importar datos de semillas
-boxplot(semilla$Peso_gr, header=T)
+boxplot(Semilla$Peso_gr, header=T)
 
 # Identificar
-which(semilla$Peso_gr >40)
-semilla[524, ]
+which(Semilla$Peso_gr >40)
+Semilla[524, ]
 
 # identificar semillas con valores manores al rango
-quantile(semilla$Peso_gr, 0.0)
+quantile(Semilla$Peso_gr, 0.0)
 graf.sem$out
 
-which(semilla$Peso_gr <=2.67)
+which(Semilla$Peso_gr <=2.67)
 
 # Identificar los cuantiles
-quantile(semilla$Peso_gr, 0.25)
-quantile(semilla$Peso_gr, 0.5)
-quantile(semilla$Peso_gr, 0.75)
-quantile(semilla$Peso_gr, 1)
+quantile(Semilla$Peso_gr, 0.25)
+quantile(Semilla$Peso_gr, 0.5)
+quantile(Semilla$Peso_gr, 0.75)
+quantile(Semilla$Peso_gr, 1)
 
 
 
