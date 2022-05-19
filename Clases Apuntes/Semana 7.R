@@ -6,10 +6,9 @@
 
 #6 semanas de monitoreo
 
-
 #importar datos de semillas
 
-graf.sem <- boxplot(semillas$Peso_gr)
+graf.sem <- boxplot(semillas$Peso_gr, header=T)
 
 # Identificar
 which(semillas$Peso_gr >40)
