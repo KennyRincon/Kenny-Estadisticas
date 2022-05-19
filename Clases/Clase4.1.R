@@ -8,28 +8,18 @@ vivero <- read.csv("Clases/BD_Vivero.csv", header = TRUE)
 
 View(Vivero)
 
-# Estadistica descriptiva -------------------------------------------------
+#Estadistica descriptiva -------------------------------------------------
 
-# Medidas de tendecia central
+#Medidas de tendecia central
 
-mean(Vivero$IE)
-median(Vivero$IE)
-range(Vivero$IE)
-fivenum(Vivero$IE)
+mean(vivero$IE)
+median(vivero$IE)
+range(vivero$IE)
+fivenum(vivero$IE)
 
-boxplot(Vivero$IE)
-boxplot(Vivero$IE, horizontal = T)
-boxplot(Vivero$IE, horizontal = T, col = "blue")
-hist(Vivero$IE)
-11*100/42
+boxplot(vivero$IE, horizontal = T, col = "red")
+hist(vivero$IE, ylim = c(0,12))
 
-hist(Vivero$IE, ylim = c(0,12))
-
-table(Vivero$IE)
-
-ftable(Vivero$IE)
-
-getwd
- "C:/Users/Usuario/Documents/kenny/Kenny-Estadisticas"
+frec <- table(vivero$IE)
 
  
