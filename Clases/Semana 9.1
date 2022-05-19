@@ -1,0 +1,46 @@
+#Clase semana 9 Dia 1
+#Revisar datos peso de madera 2x2x2
+
+
+
+Madera <- read.csv("Clases Apuntes/Madera.csv", header=T)
+Madera$Sp <- as.factor(Madera$Sp)
+
+library(dplyr)
+shapiro.test(bar$Peso_gr)
+
+bar <- Madera%>%
+  filter(bar$Peso_gr)
+hist(bar$Peso_gr)
+
+Chp <- Madera %>%
+filter(Sp=="Chp")  
+hist(Chp$Peso_gr)
+
+D.Eb <- Madera %>%
+filter(Sp=="D. Ebano")
+hist(D.Eb$Peso_gr)
+
+Ebano <- Madera %>%
+filter(Sp=="Ebano")  
+hist(Ebano$Peso_gr)
+
+hist(Madera$Peso_gr, col = "blue")
+shapiro.test(Madera$Peso_gr)
+
+url <- "https://raw.githubusercontent.com/mgtagle/Marco_Principios_Estadistica_2022/main/Clases/Semillas.csv"
+
+
+semillas <- read.csv(url)
+hist(semillas$Peso_gr)
+shapiro.test(semillas$Peso_gr)
+semillas$Cond <- as.factor(semillas$Cond)
+
+semillas$Cond <- as.factor(semillas$Cond)
+
+pobre <- semillas%>%
+  filter(Cond=="Pobre")
+hist(pobre$Peso_gr, col = "blue")
+
+shapiro.test(pobre$Peso_gr)
+
