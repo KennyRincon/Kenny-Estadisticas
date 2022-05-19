@@ -13,11 +13,15 @@ Semana 2:
 Semana 3: 
 
 + :dart: 02/02/2022: sala de computo instalar credenciales y proyecto.
+
 ¡[Laboratorio](Laboratorio/Lab 1.R) 
+
 ¡[Tarea](Tarea/HW_01.R)
+
 ¡[Clases Apuntes](Clases Apuntes/Clase semana 3.R)
 
 Semana 4:sala de computo realiazacion de graficas 
+
 ¡[Laboratorio](Laboratorio/Lab2.R)
 ¡[Tarea](Tarea/HW_02.R) 
 ¡[Tarea](Tarea/HW_03.R)
