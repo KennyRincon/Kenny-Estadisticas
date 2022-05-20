@@ -2,7 +2,7 @@
 #Revisar datos de madera
 #BD madeeras
 
-Madera <- read.csv("Clases Apuntes/Madera.csv", header=T)
+Madera <- read.csv("Clases/Madera.csv", header=T)
 
 Madera$Sp <- as.factor(Madera$Sp)
 
