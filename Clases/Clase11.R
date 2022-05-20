@@ -1,7 +1,7 @@
 #Clase semana 11
 #Prueba de T de muestras dependientes
 
-datos <- read.csv("Clases Apuntes/mainproduccion.csv", header = T)
+datos <- read.csv("Clases/mainproduccion.csv", header = T)
 datos$Tiempo <- as.factor(datos$Tiempo)
 
 boxplot(datos$Kgsem ~ datos$Tiempo, col = "blue",
