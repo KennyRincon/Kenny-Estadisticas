@@ -33,19 +33,19 @@ Semana 4:sala de computo realiazacion de graficas
 
 [Lab2](Laboratorio/Lab2.R)
 
-[Lab2](Laboratorio/Lab2.pdf)
+[Lab2.pdf](Laboratorio/Lab2.pdf)
 
 [HW_02](Tarea/HW_02.R) 
 
 [HW_02.pdf](Tarea/HW_02.pdf)
 
-[HW_03](Tarea/HW_03.R)
+[HW_03.pdf](Tarea/HW_03.R)
 
-[HW_03](Tarea/HW_03.pdf)
+[HW_03.pdf](Tarea/HW_03.pdf)
 
 [Clase4](Clases/Clase4.R) 
 
-[Clase4](Clases/Clase4.pdf)
+[Clase4.pdf](Clases/Clase4.pdf)
 
 [Clases](Clases/Clase4.1.R)
 
@@ -56,11 +56,12 @@ Semana 5:
 
 [Clase5](Clases/Clase5.R)
 
-[Clase5](Clases/Clase5.pdf)
+[Clase5.pdf](Clases/Clase5.pdf)
 
 Semana 6: 
 + :dart: 23/02/2022: recoleccion de datos Semillas de encino rojo
 + :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
+
 [DIA LIBRE](Dia libre)
 
 Semana 7: 
@@ -88,7 +89,7 @@ Semana 10:
 
 [Clase10](Clases/ExamenSemana13.R)
 
-[Lab](Clases/Laboratorio/Semana-6-Lab.pdf)
+[Lab6.pdf](Clases/Laboratorio/Semana-6-Lab.pdf)
 
 
 Semana 11:
@@ -103,30 +104,32 @@ Semana 12:
 
 [Clase12](Clases/Clase12.R)
 
-[Clase12](Clases/Clase12.pdf)
+[Clase12.pdf](Clases/Clase12.pdf)
 
 
 Semana 13:
 + :dart: 27/04/2022: sala de computo tema nuevo correlacion.
 + :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
-[Clases](Clases/ExamenSemana13.R)
+[Clases.examen](Clases/ExamenSemana13.R)
 
-[Clases](Clases/Clase13.R)
+[Clase13](Clases/Clase13.R)
 
 Semana 14:
 + :dart: 04/05/2022: base de datos semilla: regresion
 + :dart: 05/05/2022: Dia libre
 
-[Clases](Clases/Clase14.R)
+[Clase14](Clases/Clase14.R)
 
 Semana 15:
 + :dart: 11/05/2022:segundo examen: datos de regresion lineal
 + :dart: 12/05/2022: Actualizacion de README, solucion de dudas
 
-[Clases](Clases/Examen2.R)
+[Clase15](Clases/Examen2.R)
 
-[Laboratorio](Laboratorio/Lab3.R)
+[Lab3](Laboratorio/Lab3.R)
+
+[Lab3.pdf](Laboratorio/Lab3.pdf)
 
 Semana 16:
 + :dart: Preparacion del PIA
