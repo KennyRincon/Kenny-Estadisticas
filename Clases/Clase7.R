@@ -7,12 +7,12 @@
 #6 semanas de monitoreo
 
 Semillas <-read.csv("Clases/BaseDeDatos_estadistica.csv", header = T) 
-graf.sem <- boxplot(semilla$Peso_gr)
+
 #importar datos de semillas
 boxplot(Semilla$Peso_gr, header=T)
 
 # Identificar
-which(Semilla$Peso_gr >40)
+which(Semilla$Peso_gr > 40)
 Semilla[524, ]
 
 # identificar semillas con valores manores al rango
