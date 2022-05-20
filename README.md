@@ -14,77 +14,97 @@ Semana 3:
 
 + :dart: 02/02/2022: sala de computo instalar credenciales y proyecto.
 
-[Laboratorio](Laboratorio/Lab1.R)
+[Lab1](Laboratorio/Lab1.R)
+
 [Lab1.pdf](Laboratorio/Lab1.pdf)
-[Tarea](Tarea/HW_01.R)
+
+[HW_01](Tarea/HW_01.R)
 
 [HW_01.pdf](Tarea/HW_01.pdf)
 
 
-[Clases](Clases/Clase3.R)
+[Clase](Clases/Clase3.R)
 
+[Clase3.pdf](Clases/Clase3.pdf)
 
 
 
 Semana 4:sala de computo realiazacion de graficas 
 
-[Laboratorio](Laboratorio/Lab2.R)
+[Lab2](Laboratorio/Lab2.R)
 
-[Tarea](Tarea/HW_02.R) 
+[Lab2](Laboratorio/Lab2.pdf)
 
-[Tarea](Tarea/HW_03.R)
+[HW_02](Tarea/HW_02.R) 
 
-[Clases](Clases/Clase4.R) 
+[HW_02.pdf](Tarea/HW_02.pdf)
+
+[HW_03](Tarea/HW_03.R)
+
+[HW_03](Tarea/HW_03.pdf)
+
+[Clase4](Clases/Clase4.R) 
+
+[Clase4](Clases/Clase4.pdf)
 
 [Clases](Clases/Clase4.1.R)
+
 
 Semana 5:
 + :dart: 16/02/2022: sala de computo trabajo con datos de inventario
 + :dart: 17/02/2022: sala de computo estadistica diferencial
 
-[Clases](Clases/Clase5.R)
+[Clase5](Clases/Clase5.R)
+
+[Clase5](Clases/Clase5.pdf)
 
 Semana 6: 
 + :dart: 23/02/2022: recoleccion de datos Semillas de encino rojo
 + :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
-
+[DIA LIBRE](Dia libre)
 
 Semana 7: 
 + :dart: 02/03/2022: sala de computo importar datos de semillas
 + :dart: 03/03/2022: preparacion de semillas para geerminacion de invernadero
 
-[Clases](Clases/Clase7.R)
+[Clase7](Clases/Clase7.R)
+
 
 Semana 8:
 + :dart: 16/03/2022 sala de computo importar base de datos de madera
 + :dart: 17/03/2022 --------------------------------------
 
+[DIA LIBRE](Dia libre)
+
 Semana 9: 
 + :dart: 23/03/2022: sala de computo revisar datos de madera
 + :dart: 24/03/2022: ------------------------------------
 
-[Clases](Clases/Clase9.R)
+[Clase9](Clases/Clase9.R)
 
 Semana 10: 
 + :dart: 23/03/2022: sala de computo pruebas de t en base de datos de madera
 + :dart: 24/03/2022: Examen
 
-[Clases](Clases/ExamenSemana13.R)
+[Clase10](Clases/ExamenSemana13.R)
 
-[Laboratorio](Clases/Laboratorio.R)
+[Lab](Clases/Laboratorio/Semana-6-Lab.pdf)
 
 
 Semana 11:
 + :dart: 30/03/2022: sala de computo pruebas de t dependientes
 + :dart: 31/03/2022: revision de examen
 
-[Clases](Clases/Clase11.R)
+[Clase11](Clases/Clase11.R)
 
 Semana 12:
 + :dart: 06/04/2022: revision de semillas de Encino rojo en el invernadero
 + :dart: 07/04/2022: exposicion de problema de variables dependientes
 
-[Clases](Clases/Clase12.R)
+[Clase12](Clases/Clase12.R)
+
+[Clase12](Clases/Clase12.pdf)
+
 
 Semana 13:
 + :dart: 27/04/2022: sala de computo tema nuevo correlacion.
@@ -111,5 +131,41 @@ Semana 15:
 Semana 16:
 + :dart: Preparacion del PIA
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJEMPLO
+
+SEMANA 3:
+
+[Lab1](Laboratorio/Lab1.R)
 
 
