@@ -3,48 +3,58 @@
 #BD madeeras
 
 Madera <- read.csv("Clases/Madera.csv", header=T)
-
 Madera$Sp <- as.factor(Madera$Sp)
-
-boxplot(Madera$Peso_gr ~ Madera$Sp)
 
 library(dplyr)
 
+
+# Bar ---------------------------------------------------------------------
+
+
+
 bar <- Madera %>%
-filter(Sp=="Bar")
-
-
-#Comparacion de una media teoretica Mu=8.0 para Sp =Barreta
-
-mean(bar$Peso_gr)
-
-t.test(bar$Peso_gr, mu=7.4)
-
-t.test(bar$Peso_gr, mu=8.5)
- 
-
-
-Chp <- Madera %>%
-filter(Sp=="Chp")  
-
-mean(Chp$Peso_gr)
-t.test(Chp$Peso_gr, mu=8.5)
-
-
-D.Ebano <- Madera %>%
-filter(Sp=="D.Ebano")
-
-mean(D.Ebano$Peso_gr)
-t.test(D.Ebano$Peso_gr, mu=12)
-
-D.Ebano <- Madera %>%
-filter(Sp=="D.Eb")  
-
-mean(D.Ebano$Peso_gr)
-t.test(Ebano$Peso_gr, mu=11.3)
+  filter(Sp=="Bar")
 
 
 
+shapiro.test(bar$Peso_gr)
+
+hist(bar$Peso_gr,col = "Gold")
 
 
+# Chp ---------------------------------------------------------------------
+
+
+Chp <- Madera%>%
+  
+  filter(Sp=="Chp")
+
+shapiro.test(Chp$Peso_gr)
+
+hist(chp$Peso_gr, col = "Green")
+
+# Ebano -------------------------------------------------------------------
+
+Eb <- Madera%>%
+  
+  filter(Sp=="Ebano")
+
+
+shapiro.test(Ebano$Peso_gr)
+
+
+hist(Ebano$Peso_gr, col = "Red")
+
+
+# D.Ebano -----------------------------------------------------------------
+
+D.Ebano <- Madera%>%
+  
+  filter(Sp=="D. Ebano")
+
+
+shapiro.test(D.Ebano$Peso_gr)
+
+
+hist(D.Ebano$Peso_gr)
 
